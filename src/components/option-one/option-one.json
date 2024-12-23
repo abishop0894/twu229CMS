@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_option_one_option_ones",
+  "info": {
+    "displayName": "optionOne"
+  },
+  "options": {},
+  "attributes": {
+    "optionOne": {
+      "type": "text"
+    }
+  }
+}

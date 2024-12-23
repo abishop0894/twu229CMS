@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_option_three_option_threes",
+  "info": {
+    "displayName": "optionThree"
+  },
+  "options": {},
+  "attributes": {
+    "optionThree": {
+      "type": "text"
+    }
+  }
+}
