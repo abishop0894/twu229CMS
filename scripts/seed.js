@@ -24,6 +24,8 @@ async function seedExampleApp() {
   }
 }
 
+//test
+
 async function isFirstRun() {
   const pluginStore = strapi.store({
     environment: strapi.config.environment,
